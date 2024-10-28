@@ -25,5 +25,5 @@ jobs:
       with:
         token: ${{ github.token }} 
         branch: gh-pages
-        repository_name: dennismyren/dennismyren.github.io
+        repository-name: dennismyren/dennismyren.github.io
         folder: release/wwwroot
